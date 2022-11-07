@@ -11,4 +11,4 @@ Data augmentation is a technique used to create more examples with the same data
 - Channel Shift
 - Horizontal and Vertical Flips
 
-## Platfrom Used - Google Colab
+## Platfrom Used- Google Colab
